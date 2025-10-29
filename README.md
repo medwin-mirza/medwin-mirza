@@ -18,7 +18,7 @@ I specialize in Angular, Ionic, and Capacitor, bridging the gap between modern w
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/medwin-mirza" target="_blank" style="text-decoration: none;">
+<a href="https://linkedin.com/in/medwin-mirza" target="_blank" style="text-decoration: none !important;">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" />
 </a>
   &nbsp;
